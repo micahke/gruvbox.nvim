@@ -1156,7 +1156,7 @@ local function get_groups()
     ["@diff.plus"] = { link = "diffAdded" },
     ["@diff.minus"] = { link = "diffRemoved" },
     ["@diff.delta"] = { link = "diffChanged" },
-    ["@module"] = { link = "GruvboxFg1" },
+    ["@module"] = { link = "GruvboxBlue" },
     ["@namespace"] = { link = "GruvboxFg1" },
     ["@symbol"] = { link = "Identifier" },
     ["@text"] = { link = "GruvboxFg1" },
